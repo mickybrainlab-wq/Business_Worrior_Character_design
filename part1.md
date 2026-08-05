@@ -381,7 +381,7 @@ If its not acc to rules, change the rule not the gole.
 
 **Everything that exist is created by us, the country, the baking system, the education system, the laws, the rules, the story, the meaning of something, we can create anything we want**
 
-**Normal person just follow the path that we create, and he thinks that its choosen by him, like arts, commerce, medical, non medical he thiks he will choose, but he will work one of my 4 company at the end, my gole is just to capture the firsh, use any color of net**
+**Normal person just follow the path that we create, and he thinks that its choosen by him, like arts, commerce, medical, non medical he thiks he will choose, but he will work one of my 4 company at the end, my gole is just to capture the firsh, use any color of net, Ab kitni badi machli pakdunga , vo to machli ke apne life ke strugule and skills or feature pe depend karta hi, hamare lie sab ek fish hi, ham talab banane wale hi, or unse kam karwane wale **
 
 ---
 
@@ -408,7 +408,134 @@ You are not their friend.
 
 You are the force that gets the job done.
 
-**"Mera kam puran hona chahie, thats what i want only"**
+**"Mera kam pura hona chahie, thats what i want only"**
+
+
+
+
+====================================================================================================
+Speed always matter , over only signal.
+====================================================================================================
+
+
+
+# Principle 3
+
+# PERFECION IS NOT THE GOAL — COMPLETION IS
+
+## The Carnegie Reality
+
+* **Done is better than perfect.**
+* **Perfection is a luxury of the slow.**
+* **The fast win; the perfect die trying.**
+
+> *(Nothing is perfect, everytime you see your old creation, you can add one more thing to make it perfect, but there is no perfection for human.)*
+
+---
+
+## Core Idea
+
+Agar tum koi idea ko product me convert karna chahte ho, to vo product hona chahie, exist karna chahie, or apna purpose fulfil karna chahie 20% 30%.
+
+Kyuki agar perfect product ke chakkar me gae, ki sare feature ho isme, fir tum puri life nahi perfect bana paoge.
+
+Kyuki jaise lagega bas ye add kar du to perfect ho jaega, uske bad bhi 3 or kamil lagne lagegi.
+
+To product finish karna bohot jaroori hi, market me ana jaroori hi.
+
+Fir list karo usme kami, or improve karne pe kam karo, fir 2nd version lao.
+
+Na ki first version ko hi perfect karne lage.
+
+**Perfection is just a trap.**
+
+---
+
+## Execution Algorithm
+
+```text
+FOR EVERY TASK:
+
+Set deadline: 50% of estimated time
+
+Complete to 80% quality
+
+Move to next task
+
+Return only if necessary
+```
+
+---
+
+## Product Building Algorithm
+
+Like a product has 10 component,
+
+* Allocate 4 hour for each component.
+* At last work on final product, and pack it.
+* Show in market.
+* Get feedback.
+* Improve component.
+* Recombine it.
+* Give 2nd one on market.
+
+---
+
+## Carnegie Observation
+
+What Carnegie did:
+
+He didn't make the best steel.
+
+He made the cheapest steel fast enough to dominate the market.
+
+He tore out equipment that was "good enough" and replaced it with better, faster equipment.
+
+He wasn't perfecting.
+
+He was accelerating.
+
+---
+
+## Market Reality
+
+Your product name is in market is much better them its in your lab looking for improvement.
+
+Books are not teachers for us.
+
+The market is.
+
+And the more time you spend in market the more you learn.
+
+---
+
+## The Mental Override
+
+Perfection is fear disguised as quality.
+
+Fear of judgment.
+
+> *(What other will say about my product if there are so many excelent product also exist.)*
+
+Fear of failure.
+
+Fear of exposure.
+
+Completion is courage.
+
+Completion is reality.
+
+Completion is money.
+
+---
+
+## Final Reality
+
+People (fish) cant pay you for half of the master work.
+
+But can pay you to the complete working product. Because normal people cant buy perfect product, and rich have other options. 
+
+
 
 
 
