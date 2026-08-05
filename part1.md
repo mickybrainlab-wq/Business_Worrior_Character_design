@@ -1,3 +1,98 @@
+
+
+
+========================================================================================================================================================================================================
+
+```
+WHEN TASK APPEARS:
+    Estimate time: Divide by 2
+    Set deadline: That time
+    Work at maximum speed
+    Complete to 80%
+    Move on
+
+WHEN RESISTANCE APPEARS:
+    Name it: "This is my body conserving energy"
+    Override: "My body will adapt. I will demand."
+    Continue
+
+WHEN FEAR APPEARS:
+    Name it: "This is my mind protecting the ego"
+    Override: "The ego is not me. I will act."
+    Act immediately
+
+WHEN PEOPLE RESIST:
+    Name it: "This is a union forming"
+    Override: "Power must be centralized. I will centralize."
+    Break the resistance
+
+WHEN WORK FEELS HARD:
+    Name it: "This is the bucket train running at capacity"
+    Override: "Full capacity is the only speed. Maintain."
+    Push through
+```
+
+
+Insall it in mind
+
+```
+REPEAT UNTIL INSTALLED:
+    "I am not a worker."
+    "Workers are resources."
+    "I organize resources."
+    "I build systems."
+    "Systems do the work."
+    "I build the next system."
+
+
+REPEAT UNTIL INSTALLED:
+    "Time is finite."
+    "Energy is finite."
+    "Money is finite."
+    "Waste is unacceptable."
+    "Every resource must be used at 100%."
+    "Full capacity is the baseline."
+
+
+
+REPEAT UNTIL INSTALLED:
+    "Results are the only metric."
+    "Feelings are irrelevant to outcomes."
+    "Conflict is necessary for progress."
+    "I will do what others won't."
+    "I will win."
+
+
+
+REPEAT UNTIL INSTALLED:
+    "Done is better than perfect."
+    "Completion is the goal."
+    "Perfection is fear."
+    "I will finish."
+    "I will move to the next thing."
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # THE WARRIOR OPERATING SYSTEM
 
 ## Build a Character That Wins Difficult Battles
@@ -697,17 +792,168 @@ Everything else is noise.
 
 
 
+========================================================================================================================================================================================================
+
+# Principle 6
+
+# SCARY WORK IS NOT OPTIONAL
+
+---
+
+## The Carnegie Reality
+
+* **If it scares you, it needs to be done.**
+* **Fear is a sign that you're approaching a limit.**
+* **Limits are where growth happens.**
+* **The scary thing is always the right thing.**
+
+---
+
+## Core Idea
+
+=> If you hit limit, hit it again and again, and the new limit will be set.
+
+=> The only way of doing hard thing is to do it again and again, and after 10 to 20 rep it will not become hard for you. Every repetition will make it simple and more simple.
+
+=> Dont think about tomorrow, do brutal work today.
+
+If your mind screem say:
+
+> **"shut up and grind"**
+
+*(if you speek lauder than mind, it will not wisper again.)*
+
+---
+
+## Fear Algorithm
+
+```text
+WHEN FEAR APPEARS:
+
+1. Name the fear
+2. Name the action that would confront it
+3. Take that action immediately
+4. Do not wait for courage — courage follows action
+5. Repeat until fear is gone
+```
+
+---
+
+## Growth Reality
+
+Crossing your limit is the only path to follow for growth.
+
+=> Limits are to break, not to protect.
+
+---
+
+## Carnegie Observation
+
+What Carnegie did:
+
+* He emigrated at 12 with nothing.
+* He entered industries he didn't understand.
+* He took on competitors who were bigger.
+* He broke unions that were powerful.
+* He did what scared him.
+* Every time.
+
+---
+
+## The Mental Override
+
+Fear is data, not a command.
+
+It tells you where the edge is.
+
+The edge is where you need to be.
+
+Move toward fear.
+
+It's the only direction that matters.
 
 
 
+========================================================================================================================================================================================================
 
+# Principle 7
 
+# SYSTEMS OVER EFFORT
 
+---
 
+## The Carnegie Reality
 
+* **Effort is finite.**
+* **Systems are infinite.**
+* **The man who builds a system outworks the man who works hard.**
 
+---
 
+## Core Idea
 
+Create a system that will achieve your desired gole, and be brutal about running that system.
 
+---
 
+## System Algorithm
+
+```text
+FOR EVERY REPEATABLE TASK:
+
+Ask: "Can this be systemized?"
+
+If yes → BUILD THE SYSTEM
+
+Ask: "Can this run without me?"
+
+If yes → LET IT RUN
+
+Your job is not to work.
+
+Your job is to build things that work.
+```
+
+---
+
+## Reality Check
+
+If your work is not building something, its useless to grind.
+
+You are just busy.
+
+---
+
+## Carnegie Observation
+
+What Carnegie did:
+
+* He built Bessemer converters.
+* Open-hearth furnaces.
+* Vertical integration.
+* He didn't make steel.
+* He built machines that made steel.
+* Then he built more machines.
+
+---
+
+## The Mental Override
+
+Working hard is for people who don't know how to build systems.
+
+Your job is to build.
+
+The system does the work.
+
+You do the building.
+
+When the system is built, build the next one.
+
+---
+
+## Final Reality
+
+Become system building, and that system will create product for you.
+
+And achieve your gole.
 
