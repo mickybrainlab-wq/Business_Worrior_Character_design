@@ -1,4 +1,6 @@
 => "money is like a clary for me that i can transform into anything i want"
+=> if you do one things, you start owning it , and owner earns only
+=> if you are doing something, analyzie will it give me money, if not nor do it.
 
 # THE WOLF OF WALL STREET MINDSET — Money as Blood, Air, and Power
 
